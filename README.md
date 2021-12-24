@@ -1,2 +1,2 @@
-# ritta.github.io
+# workritta.github.io
 the website for wallpapes 
